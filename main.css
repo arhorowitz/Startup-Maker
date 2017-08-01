@@ -1,0 +1,120 @@
+header {
+	background: black;
+	padding: 30px;
+	margin-top: -40px;
+	color: yellow;
+	border-bottom: 3px solid yellow;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.title {
+	padding-bottom: 0px;
+	font-family: ‘Merriweather’, Georgia, serif;
+}
+
+.extra-bold {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.small-nav {
+	font-size: 16px;
+}
+
+.title-standard {
+	background-color: #DDDDDD;
+	height: 20px;
+	padding: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+}
+.menu-list{
+      display: inline;
+    }
+
+ .menu-list li {
+ 	float: right;
+  	display: inline;
+  	list-style: none;
+  	color: #fff;
+  	padding-right: 10px;
+  }
+
+.grid {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.col {
+	max-width: 33%;
+	border-right: .5px solid grey;
+	padding: 10px;
+	font-family:"Oswald";
+	font-size:14px;
+}
+
+.big-header {
+	font-family: ‘Merriweather’, Georgia, serif;
+}
+.col-button {
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: #DDDDDD;
+	padding: 10px;
+}
+
+.hero {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.hero img {
+	width: 100%;
+}
+
+.hero-float {
+	width: 15%;
+	position: absolute;
+	top: 50%;
+	right: 20%;
+	background-color: rgba(255, 255, 255, .5);
+	border: 2px solid grey;
+	padding: 20px;
+	font-weight: bold;
+}
+
+.hero-float-button {
+	background-color: yellow;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.taste {
+	text-decoration: line-through;
+	color: gray;
+	opacity: .6; 
+}
+.are {
+	text-decoration: underline;
+	text-decoration-color: yellow;
+}
+
+footer {
+	background:black;
+	height: 20px;
+	color: white;
+	padding: 20px;
+}
+
+
